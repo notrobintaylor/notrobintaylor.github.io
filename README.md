@@ -2,10 +2,10 @@
 
 Belastbarer, lernbegeisterter und kommunikationsstarker Organisationssoziologe mit ausgeprägter Leidenschaft für zeitgemäße interdisziplinäre Zusammenarbeit. Stets bestrebt, technologische Innovation sinnvoll und nachhaltig zu implementieren. Ziel ist es, Organisationskulturen langfristig positiv zu beeinflussen und bei der Entwicklung zu unterstützen.
 
--   **Adresse:** Bahnhofstraße 17, 86919 Utting am Ammersee
--   **Telefon:** +49 (0)151 2386 2001
--   **E-Mail:**  [mail@robin-taylor.de](mailto:mail@robin-taylor.de)
--   **Geburtsdatum:** 14. Oktober 1989
+- **Adresse:** Bahnhofstraße 17, 86919 Utting am Ammersee
+- **Telefon:** +49 (0)151 2386 2001
+- **E-Mail:**  [mail@robin-taylor.de](mailto:mail@robin-taylor.de)
+- **Geburtsdatum:** 14. Oktober 1989
 
 # Berufserfahrung
 
@@ -15,21 +15,21 @@ Seit 2017 bin ich in selbstständiger Tätigkeit für mehr als 15 Kunden in vers
 
 **Tätigkeitsschwerpunkte:**
 
--   Organisationsentwicklung in Großprojekten und Linienorganisationen
--   Aufbau von Plattformen und Prozessen für das Wissensmanagement
--   Beratung der IT-Leitung zu Möglichkeiten zeitgemäßer Kollaboration
--   Analyse von Arbeitsabläufen und Vorgehensmodellen
--   Entwicklung von Arbeitsweisen für interdisziplinär arbeitende Teams
--   Etablierung und Moderation von User Groups und anderer Austauschformate
--   Harmonisierung von Werkzeuglandschaften 
--   Einführung von Softwarewerkzeugen im PM, PMO und ITSM
--   Konzeption von Datenmodellen für CMDBs
+- Organisationsentwicklung in Großprojekten und Linienorganisationen
+- Aufbau von Plattformen und Prozessen für das Wissensmanagement
+- Beratung der IT-Leitung zu Möglichkeiten zeitgemäßer Kollaboration
+- Analyse von Arbeitsabläufen und Vorgehensmodellen
+- Entwicklung von Arbeitsweisen für interdisziplinär arbeitende Teams
+- Etablierung und Moderation von User Groups und anderer Austauschformate
+- Harmonisierung von Werkzeuglandschaften 
+- Einführung von Softwarewerkzeugen im PM, PMO und ITSM
+- Konzeption von Datenmodellen für CMDBs
 
 **Key Skills:**
 
--   Strategische Organisationsentwicklung
--   Projekt- und Programmmanagement
--   Veränderungsmanagement und Kulturwandel
+- Strategische Organisationsentwicklung
+- Projekt- und Programmmanagement
+- Veränderungsmanagement und Kulturwandel
 
 ## IT-Transformation Manager, Capgemini Deutschland (Oktober 2019 – Juli 2021)
 
@@ -41,9 +41,9 @@ Bei einer Münchner Behörde Einführung eines Software Stacks auf Basis von Atl
 
 **Key Skills:**
 
--   Strategisches Partnermanagement
--   Implementierung komplexer Softwarelösungen
--   Schulung und Mentoring
+- Strategisches Partnermanagement
+- Implementierung komplexer Softwarelösungen
+- Schulung und Mentoring
 
 ## Technical Expert & Leader, Sogeti Deutschland GmbH (Januar 2019 – September 2019)
 
@@ -55,9 +55,9 @@ Eigenverantwortliche Einführung eines Service Desks auf Basis des Atlassian Jir
 
 **Key Skills:**
 
--   Aufbau von Kompetenzcentern
--   Agile Projektleitung
--   Stakeholder Management
+- Aufbau von Kompetenzcentern
+- Agile Projektleitung
+- Stakeholder Management
 
 ## Senior Software Engineer, Sogeti Deutschland GmbH (Dezember 2016 – Januar 2019)
 
@@ -68,9 +68,9 @@ Fachlicher und technischer Experte für Atlassian Toolsuite in diversen Projekte
 Unterstützung von Projekt- und Programmmanagern bei der Konzeption, Implementierung und Einführung von Softwarelösungen auf Basis der Atlassian Toolsuite für einen Kunden in der militärischen Raumfahrt.
 
 **Key Skills:**
--   Prozessoptimierung
--   Technische Beratung und Schulung
--   Talentmanagement und -entwicklung
+- Prozessoptimierung
+- Technische Beratung und Schulung
+- Talentmanagement und -entwicklung
 
 # Ausbildung
 
@@ -78,12 +78,12 @@ Unterstützung von Projekt- und Programmmanagern bei der Konzeption, Implementie
 
 # Kernkompetenzen
 
--   Strategische Organisationsentwicklung
--   Agiles Projektmanagement
--   Change Management und Kulturwandel
--   Implementierung komplexer Softwarelösungen
--   Stakeholder Management und Kommunikation
--   Prozessoptimierung und Digitalisierung
+- Strategische Organisationsentwicklung
+- Agiles Projektmanagement
+- Change Management und Kulturwandel
+- Implementierung komplexer Softwarelösungen
+- Stakeholder Management und Kommunikation
+- Prozessoptimierung und Digitalisierung
 
 # Projektliste
 
@@ -95,5 +95,5 @@ Unterstützung von Projekt- und Programmmanagern bei der Konzeption, Implementie
 
 # Sprachen
 
--   Deutsch (Muttersprache)
--   Englisch (Muttersprache)
+- Deutsch (Muttersprache)
+- Englisch (Muttersprache)
