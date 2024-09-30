@@ -87,11 +87,11 @@ Unterstützung von Projekt- und Programmmanagern bei der Konzeption, Implementie
 
 # Projektliste
 
-- IT-Anforderungsmanagement und Konzeption einer Raumbuchungssoftware zum Einsatz im Gebäude- und Veranstaltungsmanagement (2024)
-- IT-Anforderungsmanagement für eine Lernmanagementsoftware zum Einsatz in der Organisationsentwicklung (2024)
-- Konzeption eines Werkzeugverbunds in Confluence und Jira zum Einsatz im IT-Anforderungsmanagement (2024)
-- Prozessdesign für Kernprozesse im IT-Anforderungsmanagement (2024)
-- Planung und Projektleitung für eine Migration von Confluence und Jira Data Center in eine andere Infrastruktur (2024)
+- (2024) IT-Anforderungsmanagement und Konzeption einer Raumbuchungssoftware zum Einsatz im Gebäude- und Veranstaltungsmanagement 
+- (2024) IT-Anforderungsmanagement für eine Lernmanagementsoftware zum Einsatz in der Organisationsentwicklung 
+- (2024) Konzeption eines Werkzeugverbunds in Confluence und Jira zum Einsatz im IT-Anforderungsmanagement 
+- (2024) Prozessdesign für Kernprozesse im IT-Anforderungsmanagement 
+- (2024) Planung und Projektleitung für eine Migration von Confluence und Jira Data Center in eine andere Infrastruktur 
 
 # Sprachen
 
