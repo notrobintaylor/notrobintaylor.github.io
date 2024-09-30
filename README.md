@@ -97,5 +97,3 @@ Unterstützung von Projekt- und Programmmanagern bei der Konzeption, Implementie
 
 -   Deutsch (Muttersprache)
 -   Englisch (Muttersprache)
-
-Dieser überarbeitete Lebenslauf betont Ihre Expertise in der Organisationsentwicklung und Ihre Fähigkeit, komplexe technologische Lösungen zu implementieren. Er ist strukturiert, um Ihre Erfahrungen und Fähigkeiten klar hervorzuheben und gleichzeitig Ihren persönlichen Schreibstil beizubehalten. Die Verwendung von Markdown-Formatierung macht den CV leicht lesbar und ermöglicht eine einfache Konvertierung in verschiedene Dokumentformate.
