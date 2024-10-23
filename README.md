@@ -89,9 +89,19 @@ Unterstützung von Projekt- und Programmmanagern bei der Konzeption, Implementie
 
 - (2024) IT-Anforderungsmanagement und Konzeption einer Raumbuchungssoftware zum Einsatz im Gebäude- und Veranstaltungsmanagement 
 - (2024) IT-Anforderungsmanagement für eine Lernmanagementsoftware zum Einsatz in der Organisationsentwicklung 
-- (2024) Konzeption eines Werkzeugverbunds in Confluence und Jira zum Einsatz im IT-Anforderungsmanagement 
+- (2024) Konzeption eines Werkzeugverbunds in Atlassian Confluence und Jira Data Center zum Einsatz im IT-Anforderungsmanagement 
 - (2024) Prozessdesign für Kernprozesse im IT-Anforderungsmanagement 
-- (2024) Planung und Projektleitung für eine Migration von Confluence und Jira Data Center in eine andere Infrastruktur 
+- (2024) Projektleitung für eine Migration von Atlassian Confluence und Jira Data Center in eine andere Infrastruktur
+- (2023) Projektleitung Schulungskonzept für Softskill-Trainings
+- (2023) Programmleitung Aufbau einer Organisationseinheit für Organisationsentwicklung
+- (2023) Projektleitung Konzeption einer Reportingstruktur für technische Teams und deren Leitungsebene
+- (2022) Projektleitung Einführung eines Arbeitsleitsystems auf Basis von Atlassian Jira Cloud für operative Organisationseinheiten
+- (2022) Projektleitung Schulungskonzept für IT Anwendungen
+- (2022) Projektleitung Konzeption einer Wissensdatenbank für den Einsatz im ITSM
+- (2022) Train the Trainer Tätigkeit für ein Team bestehend aus In-house Consultants und First Level Support im ITSM zu Projekt- und Prozessmanagementlösungen
+- (2021) Projektleitung Entwicklung einer Lösung für Sitzplatzbuchungen für 3 Liegenschaften
+- (2021) Projektleitung Konzeption eines Datenmodells in Jira Assets für den Einsatz im ITSM
+- (2021) Programmleitung Einführung eines Arbeitsleitsystems auf Basis von Confluence und Jira für technische Teams
 
 # Sprachen
 
