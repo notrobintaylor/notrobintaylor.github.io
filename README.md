@@ -87,6 +87,7 @@ Unterstützung von Projekt- und Programmmanagern bei der Konzeption, Implementie
 
 # Projektliste
 
+- (2024) Konzeption eines Onboardingcurriculum inkl. IT-Anwendungsschulungen für Mitarbeitende des Zentralbereichs und technische Teams
 - (2024) IT-Anforderungsmanagement und Konzeption einer Raumbuchungssoftware zum Einsatz im Gebäude- und Veranstaltungsmanagement 
 - (2024) IT-Anforderungsmanagement für eine Lernmanagementsoftware zum Einsatz in der Organisationsentwicklung 
 - (2024) Konzeption eines Werkzeugverbunds in Atlassian Confluence und Jira Data Center zum Einsatz im IT-Anforderungsmanagement 
