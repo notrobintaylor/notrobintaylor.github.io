@@ -1,110 +1,111 @@
-# Profil & Kontakt
+# Profile & Contact
 
-Belastbarer, lernbegeisterter und kommunikationsstarker Organisationssoziologe mit ausgeprägter Leidenschaft für zeitgemäße interdisziplinäre Zusammenarbeit. Stets bestrebt, technologische Innovation sinnvoll und nachhaltig zu implementieren. Ziel ist es, Organisationskulturen langfristig positiv zu beeinflussen und bei der Entwicklung zu unterstützen.
+Results-driven organizational sociologist with proven expertise in public sector digital transformation and IT project management. Demonstrated track record of successfully implementing sustainable technological innovations while fostering positive organizational change. Specializes in leading complex IT initiatives with a focus on stakeholder engagement and knowledge management in public administration contexts.
 
-- **Adresse:** Bahnhofstraße 17, 86919 Utting am Ammersee
-- **Telefon:** +49 (0)151 2386 2001
-- **E-Mail:**  [mail@robin-taylor.de](mailto:mail@robin-taylor.de)
-- **Geburtsdatum:** 14. Oktober 1989
+- **Address:** Bahnhofstraße 17, 86919 Utting am Ammersee
+- **Phone:** +49 (0)151 2386 2001
+- **Email:** [mail@robin-taylor.de](mailto:mail@robin-taylor.de)
+- **Date of Birth:** October 14, 1989
 
-# Berufserfahrung
+# Professional Experience
 
-## Selbstständiger Berater (seit August 2021)
+## Independent Public Sector Consultant (since August 2021)
 
-Seit 2017 bin ich in selbstständiger Tätigkeit für mehr als 15 Kunden in verschiedensten Projekten tätig. Seit August 2021 in Vollzeit selbstständig für Kunden im öffentlichen Sektor. Mein Fokus liegt auf der Optimierung von Organisationsstrukturen und -prozessen durch den undogmatischen Einsatz moderner Methoden und Technologien.
+Since 2017, served over 15 clients across various projects, transitioning to full-time independent consulting for public sector clients in August 2021. Specializes in optimizing organizational structures and processes through pragmatic implementation of modern methodologies and technologies in public administration.
 
-**Tätigkeitsschwerpunkte:**
+**Key Responsibilities:**
 
-- Organisationsentwicklung in Großprojekten und Linienorganisationen
-- Aufbau von Plattformen und Prozessen für das Wissensmanagement
-- Beratung der IT-Leitung zu Möglichkeiten zeitgemäßer Kollaboration
-- Analyse von Arbeitsabläufen und Vorgehensmodellen
-- Entwicklung von Arbeitsweisen für interdisziplinär arbeitende Teams
-- Etablierung und Moderation von User Groups und anderer Austauschformate
-- Harmonisierung von Werkzeuglandschaften 
-- Einführung von Softwarewerkzeugen im PM, PMO und ITSM
-- Konzeption von Datenmodellen für CMDBs
+- Leading organizational development in major projects and line organizations
+- Developing and implementing knowledge management platforms and processes
+- Strategic IT consulting for leadership on modern collaboration approaches
+- Analyzing workflows and procedural models
+- Developing working methodologies for cross-functional teams
+- Establishing and facilitating user groups and knowledge exchange formats
+- Harmonizing tool landscapes
+- Implementing PM, PMO, and ITSM software solutions
+- Designing CMDB data models
 
-**Key Skills:**
+**Core Competencies:**
 
-- Strategische Organisationsentwicklung
-- Projekt- und Programmmanagement
-- Veränderungsmanagement und Kulturwandel
+- Strategic organizational development
+- Project and program management
+- Change management and cultural transformation
 
-## IT-Transformation Manager, Capgemini Deutschland (Oktober 2019 – Juli 2021)
+## IT Transformation Manager, Capgemini Deutschland (October 2019 – July 2021)
 
-**Interne Tätigkeiten:**  
-Fachlich verantwortlich für das nationale Partner Management in der globalen strategischen Partnerschaft mit Atlassian. Steuerung diverser interner Initiativen zur interdisziplinären Vernetzung von Application Consultants in ganz Deutschland. Durchführung regelmäßiger produkt- und rollenspezifischer Schulungen zur Standardisierung von Arbeitsprozessen mit Atlassian Softwareprodukten.
+**Internal Responsibilities:**  
+National lead for strategic partnership management with Atlassian. Directed multiple initiatives to enhance cross-functional collaboration among Application Consultants across Germany. Conducted regular product and role-specific training sessions to standardize work processes with Atlassian software products.
 
-**Projekttätigkeiten:**  
-Bei einer Münchner Behörde Einführung eines Software Stacks auf Basis von Atlassian Produkten als digitaler Arbeitsmittelpunkt für interdisziplinäres Arbeiten. Verantwortlich für arbeitsorganisatorische, kulturelle, prozessuale und technische Innovationen zur Förderung eines nachhaltigen Kulturwandels. Ausbildung und Mentoring von Kollegen sowie Durchführung von Anwenderschulungen und Workshops.
+**Project Activities:**  
+Led the implementation of an Atlassian-based software stack for a Munich public authority, serving as the digital workplace hub for interdisciplinary collaboration. Responsible for organizational, cultural, procedural, and technical innovations to drive sustainable cultural change. Provided comprehensive training and mentoring, including user training sessions and workshops.
 
-**Key Skills:**
+**Core Competencies:**
 
-- Strategisches Partnermanagement
-- Implementierung komplexer Softwarelösungen
-- Schulung und Mentoring
+- Strategic partnership management
+- Complex software solution implementation
+- Training and mentoring
 
-## Technical Expert & Leader, Sogeti Deutschland GmbH (Januar 2019 – September 2019)
+## Technical Expert & Leader, Sogeti Deutschland GmbH (January 2019 – September 2019)
 
-**Interne Tätigkeiten:**  
-Einführung eines Softwarestacks basierend auf Capgemini Projektmanagement-Methodik. Leitung eines Projektteams zur Einführung von Atlassian Softwareprodukten. Verantwortlich für die Etablierung eines Competency Centers (Atlassian Factory) in Deutschland.
+**Internal Responsibilities:**  
+Implemented software stack based on Capgemini project management methodology. Led project team for Atlassian software product implementation. Responsible for establishing Competency Center (Atlassian Factory) in Germany.
 
-**Kundenprojekte:**  
-Eigenverantwortliche Einführung eines Service Desks auf Basis des Atlassian Jira Service Desks für eine Hamburger Behörde, inklusive Anforderungsanalyse, Projektplanung, technischer Umsetzung und Schulung der Stakeholder.
+**Client Projects:**  
+Independently implemented service desk solution based on Atlassian Jira Service Desk for Hamburg public authority, including requirements analysis, project planning, technical implementation, and stakeholder training.
 
-**Key Skills:**
+**Core Competencies:**
 
-- Aufbau von Kompetenzcentern
-- Agile Projektleitung
-- Stakeholder Management
+- Competency center development
+- Agile project management
+- Stakeholder management
 
-## Senior Software Engineer, Sogeti Deutschland GmbH (Dezember 2016 – Januar 2019)
+## Senior Software Engineer, Sogeti Deutschland GmbH (December 2016 – January 2019)
 
-**Interne Tätigkeiten:**  
-Fachlicher und technischer Experte für Atlassian Toolsuite in diversen Projekten. Konzeption digitaler Arbeitsmittelpunkte zur Verbesserung interdisziplinärer Kommunikation. Beteiligung an der Pilotierung eines firmenweiten Kompetenzmodells. Optimierung des Recruitingprozesses und Betreuung von Praktikanten und Werksstudenten.
+**Internal Responsibilities:**  
+Technical and functional expert for Atlassian Toolsuite across various projects. Designed digital workplace solutions to enhance cross-functional communication. Participated in piloting company-wide competency model. Optimized recruitment process and supervised interns and working students.
 
-**Kundenprojekte:**  
-Unterstützung von Projekt- und Programmmanagern bei der Konzeption, Implementierung und Einführung von Softwarelösungen auf Basis der Atlassian Toolsuite für einen Kunden in der militärischen Raumfahrt.
+**Client Projects:**  
+Supported project and program managers in designing, implementing, and launching Atlassian Toolsuite-based software solutions for military aerospace client.
 
-**Key Skills:**
-- Prozessoptimierung
-- Technische Beratung und Schulung
-- Talentmanagement und -entwicklung
+**Core Competencies:**
+- Process optimization
+- Technical consulting and training
+- Talent management and development
 
-# Ausbildung
+# Education
 
--   **Audio Engineering Diploma**, SAE Institute Frankfurt/Wien (März 2009 – August 2011)
+- **Audio Engineering Diploma**, SAE Institute Frankfurt/Vienna (March 2009 – August 2011)
 
-# Kernkompetenzen
+# Core Competencies
 
-- Strategische Organisationsentwicklung
-- Agiles Projektmanagement
-- Change Management und Kulturwandel
-- Implementierung komplexer Softwarelösungen
-- Stakeholder Management und Kommunikation
-- Prozessoptimierung und Digitalisierung
+- Strategic organizational development
+- Agile project management
+- Change management and cultural transformation
+- Complex software solution implementation
+- Stakeholder management and communication
+- Process optimization and digitalization
 
-# Projektliste
+# Project Portfolio
 
-- (2024) Konzeption eines Onboardingcurriculum inkl. IT-Anwendungsschulungen für Mitarbeitende des Zentralbereichs und technische Teams
-- (2024) IT-Anforderungsmanagement und Konzeption einer Raumbuchungssoftware zum Einsatz im Gebäude- und Veranstaltungsmanagement 
-- (2024) IT-Anforderungsmanagement für eine Lernmanagementsoftware zum Einsatz in der Organisationsentwicklung 
-- (2024) Konzeption eines Werkzeugverbunds in Atlassian Confluence und Jira Data Center zum Einsatz im IT-Anforderungsmanagement 
-- (2024) Prozessdesign für Kernprozesse im IT-Anforderungsmanagement 
-- (2024) Projektleitung für eine Migration von Atlassian Confluence und Jira Data Center in eine andere Infrastruktur
-- (2023) Projektleitung Schulungskonzept für Softskill-Trainings
-- (2023) Programmleitung Aufbau einer Organisationseinheit für Organisationsentwicklung
-- (2023) Projektleitung Konzeption einer Reportingstruktur für technische Teams und deren Leitungsebene
-- (2022) Projektleitung Einführung eines Arbeitsleitsystems auf Basis von Atlassian Jira Cloud für operative Organisationseinheiten
-- (2022) Projektleitung Schulungskonzept für IT Anwendungen
-- (2022) Projektleitung Konzeption einer Wissensdatenbank für den Einsatz im ITSM
-- (2022) Train the Trainer Tätigkeit für ein Team bestehend aus In-house Consultants und First Level Support im ITSM zu Projekt- und Prozessmanagementlösungen
-- (2021) Projektleitung Entwicklung einer Lösung für Sitzplatzbuchungen für 3 Liegenschaften
-- (2021) Projektleitung Konzeption eines Datenmodells in Jira Assets für den Einsatz im ITSM
-- (2021) Programmleitung Einführung eines Arbeitsleitsystems auf Basis von Confluence und Jira für technische Teams
+- (2024) Designing onboarding curriculum including IT application training for central administration and technical teams
+- (2024) IT requirements management and conception of room booking software for facility and event management
+- (2024) IT requirements management for learning management software in organizational development
+- (2024) Designing tool integration in Atlassian Confluence and Jira Data Center for IT requirements management
+- (2024) Process design for core IT requirements management processes
+- (2024) Project management for Atlassian Confluence and Jira Data Center infrastructure migration
+- (2023) Project management for soft skills training concept
+- (2023) Program management for establishing organizational development unit
+- (2023) Project management for technical teams and leadership reporting structure design
+- (2022) Project management for Atlassian Jira Cloud-based work management system implementation in operational units
+- (2022) Project management for IT application training concept
+- (2022) Project management for ITSM knowledge database design
+- (2022) Train-the-trainer for in-house consultants and first-level support in ITSM for project and process management solutions
+- (2021) Project management for developing seat booking solution across 3 properties
+- (2021) Project management for Jira Assets data model design in ITSM
+- (2021) Program management for implementing Confluence and Jira-based work management system for technical teams
+- ...
 
-# Sprachen
+# Languages
 
-- Deutsch (Muttersprache)
-- Englisch (Muttersprache)
+- German (Native)
+- English (Native)
